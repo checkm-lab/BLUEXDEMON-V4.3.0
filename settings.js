@@ -7,9 +7,9 @@ global.pairingNumber = "263719495067"
 
 
 
-
+l
 //DO NOT EDIT OR MODD
-global.botNumber = 263719495067
+global.botNumber = pairing number
 global.domain = "https://.nobodysey.me"
 global.apikey = "ptla_DfGlmoY7jCzmkNUgyK925FPVE08Kr4mxwLMep"
 global.capikey = "ptlc_GTm42E3qIwbLW3K9w3htljUvhGvnG71hoPTqE"
